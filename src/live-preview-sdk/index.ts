@@ -83,7 +83,6 @@ export default {
 
   /**
    *fetches specific entry from a content-type
-   *
    * @param {* content-type uid} contentTypeUid
    * @param {* url for entry to be fetched} entryUrl
    * @param {* reference field name} referenceFieldPath
